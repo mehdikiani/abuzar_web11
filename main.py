@@ -1,2 +1,2 @@
 print("welcome to github")
-print("this is a sample change from online source control")
+print("this is a sample change from offline source control")
